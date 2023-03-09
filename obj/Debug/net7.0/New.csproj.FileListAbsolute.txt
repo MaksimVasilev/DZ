@@ -1,0 +1,15 @@
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.csproj.AssemblyReference.cache
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.AssemblyInfoInputs.cache
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.AssemblyInfo.cs
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.csproj.CoreCompileInputs.cache
+/Users/marinavasileva/Desktop/New/bin/Debug/net7.0/New
+/Users/marinavasileva/Desktop/New/bin/Debug/net7.0/New.deps.json
+/Users/marinavasileva/Desktop/New/bin/Debug/net7.0/New.runtimeconfig.json
+/Users/marinavasileva/Desktop/New/bin/Debug/net7.0/New.dll
+/Users/marinavasileva/Desktop/New/bin/Debug/net7.0/New.pdb
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.dll
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/refint/New.dll
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.pdb
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/New.genruntimeconfig.cache
+/Users/marinavasileva/Desktop/New/obj/Debug/net7.0/ref/New.dll
