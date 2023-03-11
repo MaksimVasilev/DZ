@@ -1,17 +1,25 @@
 ﻿
 Console.WriteLine("Введите число a");
-double a = Convert.ToInt32 ( Console.ReadLine ());
-double b = a%2;
+int a = Convert.ToInt32 ( Console.ReadLine ());
+int b = 1;
+int c = b%2;
 
-if ( b == 0)
-{
-   Console.Write("Четное");
-}
+while ( b <= a)
 
-else 
-{
-Console.Write("Нет");
-}
+   {
+      if ( b%2 == 0)
+      {
+        Console.Write( b + " ");
+      b++; 
+      }
+      else
+      {
+         b++;
+      }
+   }
+  
+
+
 
 
 
